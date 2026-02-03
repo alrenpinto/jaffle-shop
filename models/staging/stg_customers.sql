@@ -1,3 +1,4 @@
+-- CI Test: Adding a comment to check trigger logic
 with
 
 source as (
